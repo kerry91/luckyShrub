@@ -1,6 +1,7 @@
 ![HTML and CSS in depth](https://user-images.githubusercontent.com/36702039/210840651-748f2f8d-90a7-4ae3-b22e-0bdfce587cf2.png)
 
 **Retail: Lucky Shrub**
+![lucky shrub logo](https://user-images.githubusercontent.com/36702039/210842937-3d6be2d9-36f0-4db4-9377-5f07f33fe463.png)
 <br>
 Based in Tuscon, Arizona, Lucky Shrub is a medium-sized garden design firm that specializes in garden design and creation, maintenance and landscaping. The company also runs a small plant nursery that sells indoor and outdoor plants, making them a one-stop shop for clients to "transform any space into an oasis you can be proud of".
 
