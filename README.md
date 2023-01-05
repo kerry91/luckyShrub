@@ -4,7 +4,7 @@ Review criteria
 less 
 When you submit your assignment, other learners in the course will review and grade your work. They will be looking for the following:
 
-Visual layout
+**bold text**Visual layout
 
 When viewing the home page in the browser:
 
