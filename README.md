@@ -1,4 +1,4 @@
-![HTML and CSS in depth](https://user-images.githubusercontent.com/36702039/210839598-2b9fef15-6e57-4056-ada6-5e4b6b13b201.png)
+![HTML and CSS in depth](https://user-images.githubusercontent.com/36702039/210840651-748f2f8d-90a7-4ae3-b22e-0bdfce587cf2.png)
 
 Review criteria
 less 
